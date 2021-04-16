@@ -14,8 +14,8 @@ Click no link abaixo para navegar em cada projeto desse repositório
 
 * [Crawling de Dados Loja de Livros](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
   
-  * Não usado FrameWok para obtenção de dados em sites (Amazon, Saraiva, Livraia Cultura, GoodReads, Comix, Americanas)
+  * Não usado framework para obtenção de dados em sites (Amazon, Saraiva, Livraia Cultura, GoodReads, Comix, Americanas)
   
 * [Uso de PHPMail para disparos](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
   
-   * Referência do FrameWork - Mailer [Documentação](https://github.com/PHPMailer/PHPMailer)
+   * Referência do framework - Mailer [Documentação](https://github.com/PHPMailer/PHPMailer)
