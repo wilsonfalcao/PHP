@@ -16,6 +16,6 @@ Click no link abaixo para navegar em cada projeto desse repositório
   
   * Não usado framework para obtenção de dados em sites (Amazon, Saraiva, Livraia Cultura, GoodReads, Comix, Americanas)
   
-* [Uso de PHPMail para disparos](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
+* [Uso de PHPMailer para disparos](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
   
    * Referência do framework PHPMailer [Documentação](https://github.com/PHPMailer/PHPMailer)
