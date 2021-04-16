@@ -1,0 +1,12 @@
+{
+    "name": "wilsonfalcao/emailtest",
+    "require": {
+        "phpmailer/phpmailer": "~6.1"
+    },
+    "authors": [
+        {
+            "name": "wilson falcao",
+            "email": "wilson.falcao1@hotmai.com"
+        }
+    ]
+}
