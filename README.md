@@ -18,4 +18,4 @@ Click no link abaixo para navegar em cada projeto desse repositório
   
 * [Uso de PHPMail para disparos](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
   
-   * Referência do framework - Mailer [Documentação](https://github.com/PHPMailer/PHPMailer)
+   * Referência do framework PHPMailer [Documentação](https://github.com/PHPMailer/PHPMailer)
