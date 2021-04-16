@@ -6,7 +6,7 @@ Alguns dos projetos realizados utizando a linguagem PHP e recursos externos.
 
 Click no link abaixo para navegar em cada projeto desse repositório
 
-* [Funções em PHP (Gerais)](https://github.com/wilsonfalcao/PHP/tree/main/AlgorithmFunctionsr)
+* [Funções em PHP (Gerais)](https://github.com/wilsonfalcao/PHP/tree/main/AlgorithmFunctions)
 
 * [Projeto de Integração Correios com SOAP ](https://github.com/wilsonfalcao/PHP/tree/main/Integra%C3%A7%C3%A3o%20com%20Sistema%20Correios%20(SIGEP))
     
@@ -15,3 +15,7 @@ Click no link abaixo para navegar em cada projeto desse repositório
 * [Crawling de Dados Loja de Livros](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
   
   * Não usado FrameWok para obtenção de dados em sites (Amazon, Saraiva, Livraia Cultura, GoodReads, Comix, Americanas)
+  
+* [Uso de PHPMail para disparos](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
+  
+   * Referência do projeto base PHP - SIGEP [Documentação](https://github.com/PHPMailer/PHPMailer)
