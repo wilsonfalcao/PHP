@@ -18,4 +18,4 @@ Click no link abaixo para navegar em cada projeto desse repositório
   
 * [Uso de PHPMail para disparos](https://github.com/wilsonfalcao/PHP/tree/main/CrawlingModels)
   
-   * Referência do projeto base PHP - SIGEP [Documentação](https://github.com/PHPMailer/PHPMailer)
+   * Referência do FrameWork - Mailer [Documentação](https://github.com/PHPMailer/PHPMailer)
