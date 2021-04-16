@@ -1,0 +1,6 @@
+{
+    "require": {
+        "amphp/parallel": "^1.4",
+        "amphp/parallel-functions": "^1.0"
+    }
+}
