@@ -1,6 +1,0 @@
-{
-    "require": {
-        "google/cloud": "^0.151.0",
-        "thiagoalessio/tesseract_ocr": "^2.11"
-    }
-}
